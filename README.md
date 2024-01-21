@@ -39,8 +39,13 @@
 
 * [Lecture 1](lectures/notes/Lecture%201.pdf) (self guided)
 * [Lecture 2](lectures/notes/Lecture%202.pdf) (01/16/2024)
+<<<<<<< HEAD
 <!--
 * [Lecture 3](lectures/notes/Lecture%203.pdf) (01/25/2022)
+=======
+* [Lecture 3](lectures/notes/Lecture%203.pdf) (01/18/2024)
+<!--
+>>>>>>> 6b573bd998206af31fe284e120150d0af83e3403
 * [Lecture 4](lectures/notes/Lecture%204.pdf) (01/27/2022)
 * [Lecture 5](lectures/notes/Lecture%205.pdf) (02/01/2022)
 * [Lecture 6](lectures/notes/Lecture%206.pdf) (02/03/2022)
@@ -67,8 +72,8 @@
 ## Assignments
 
 * Homework 1 (due by class time on 01/16/2024) [vu_astr8070_s24_hw1.ipynb](coursework/homeworks/vu_astr8070_s24_hw1.ipynb)
+* Homework 2 (due 01/27/2022 @ 11.59pm CST) [vu_astr8070_s24_hw2.ipynb](coursework/homeworks/vu_astr8070_s24_hw2.ipynb)
 <!--
-* Homework 2 (due 02/05/2022 @ 11.59pm CST) [vu_astr8070_s22_hw2.ipynb](coursework/homeworks/vu_astr8070_s22_hw2.ipynb)
 * Homework 3 (due 02/12/2022 @ 11.59pm CST) [vu_astr8070_s22_hw3.ipynb](coursework/homeworks/vu_astr8070_s22_hw3.ipynb)
 * Homework 4 (due 02/26/2022 @ 11.59pm CST) [vu_astr8070_s22_hw4.ipynb](coursework/homeworks/vu_astr8070_s22_hw4.ipynb)
 * Homework 5 (due 03/05/2022 @ 11.59pm CST) [vu_astr8070_s22_hw5.ipynb](coursework/homeworks/vu_astr8070_s22_hw5.ipynb)
