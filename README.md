@@ -67,7 +67,7 @@
 ## Assignments
 
 * Homework 1 (due by class time on 01/16/2024) [vu_astr8070_s24_hw1.ipynb](coursework/homeworks/vu_astr8070_s24_hw1.ipynb)
-* Homework 2 (due 01/27/2022 @ 11.59pm CST) [vu_astr8070_s24_hw2.ipynb](coursework/homeworks/vu_astr8070_s24_hw2.ipynb)
+* Homework 2 (due 01/27/2024 @ 11.59pm CST) [vu_astr8070_s24_hw2.ipynb](coursework/homeworks/vu_astr8070_s24_hw2.ipynb)
 <!--
 * Homework 3 (due 02/12/2022 @ 11.59pm CST) [vu_astr8070_s22_hw3.ipynb](coursework/homeworks/vu_astr8070_s22_hw3.ipynb)
 * Homework 4 (due 02/26/2022 @ 11.59pm CST) [vu_astr8070_s22_hw4.ipynb](coursework/homeworks/vu_astr8070_s22_hw4.ipynb)
