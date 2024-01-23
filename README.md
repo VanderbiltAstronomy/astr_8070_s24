@@ -11,9 +11,9 @@
 * Lecture 1 (self guided): [Introduction To Class](lectures/Lecture_1a.ipynb) and [Initial Setup](lectures/Lecture_1b.ipynb)
 * Lecture 2 (01/16/2024): [Introduction To Probability & Statistics: I](lectures/Lecture_2.ipynb)
 * Lecture 3 (01/18/2024): [Introduction To Probability & Statistics: II](lectures/Lecture_3.ipynb)
+* Lecture 4 (01/23/2024): [Introduction To Probability & Statistics: III](lectures/Lecture_4.ipynb)
+* Lecture 5 (01/25/2024): [Classical/Frequentist Statistical Inference: I](lectures/Lecture_5.ipynb)
 <!--
-* Lecture 4 (01/27/2022): [Introduction To Probability & Statistics: III](lectures/Lecture_4.ipynb)
-* Lecture 5 (02/01/2022): [Classical/Frequentist Statistical Inference: I](lectures/Lecture_5.ipynb)
 * Lecture 6 (02/03/2022): [Classical/Frequentist Statistical Inference: II](lectures/Lecture_6.ipynb)
 * Lecture 7 (02/08/2022): [Classical/Frequentist Statistical Inference: III](lectures/Lecture_7.ipynb)
 * Lecture 8 (02/10/2022): [Bayesian Statistical Inference: I](lectures/Lecture_8.ipynb)
@@ -40,9 +40,9 @@
 * [Lecture 1](lectures/notes/Lecture%201.pdf) (self guided)
 * [Lecture 2](lectures/notes/Lecture%202.pdf) (01/16/2024)
 * [Lecture 3](lectures/notes/Lecture%203.pdf) (01/18/2024)
+* [Lecture 4](lectures/notes/Lecture%204.pdf) (01/23/2024)
+* [Lecture 5](lectures/notes/Lecture%205.pdf) (01/25/2024)
 <!--
-* [Lecture 4](lectures/notes/Lecture%204.pdf) (01/27/2022)
-* [Lecture 5](lectures/notes/Lecture%205.pdf) (02/01/2022)
 * [Lecture 6](lectures/notes/Lecture%206.pdf) (02/03/2022)
 * [Lecture 7](lectures/notes/Lecture%207.pdf) (02/08/2022)
 * [Lecture 8](lectures/notes/Lecture%208.pdf) (02/10/2022)
