@@ -40,9 +40,9 @@
 * [Lecture 1](lectures/notes/Lecture%201.pdf) (self guided)
 * [Lecture 2](lectures/notes/Lecture%202.pdf) (01/16/2024)
 * [Lecture 3](lectures/notes/Lecture%203.pdf) (01/18/2024)
+* [Lecture 4](lectures/notes/Lecture%204.pdf) (01/23/2024)
+* [Lecture 5](lectures/notes/Lecture%205.pdf) (01/25/2024)
 <!--
-* [Lecture 4](lectures/notes/Lecture%204.pdf) (01/27/2022)
-* [Lecture 5](lectures/notes/Lecture%205.pdf) (02/01/2022)
 * [Lecture 6](lectures/notes/Lecture%206.pdf) (02/03/2022)
 * [Lecture 7](lectures/notes/Lecture%207.pdf) (02/08/2022)
 * [Lecture 8](lectures/notes/Lecture%208.pdf) (02/10/2022)
