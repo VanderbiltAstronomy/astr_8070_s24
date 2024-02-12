@@ -69,8 +69,8 @@
 * Homework 1 (due by class time on 01/16/2024) [vu_astr8070_s24_hw1.ipynb](coursework/homeworks/vu_astr8070_s24_hw1.ipynb)
 * Homework 2 (due 01/27/2024 @ 11.59pm CST) [vu_astr8070_s24_hw2.ipynb](coursework/homeworks/vu_astr8070_s24_hw2.ipynb)
 * Homework 3 (due 02/10/2024 @ 11.59pm CST) [vu_astr8070_s24_hw3.ipynb](coursework/homeworks/vu_astr8070_s24_hw3.ipynb)
+* Homework 4 (due 02/24/2024 @ 11.59pm CST) [vu_astr8070_s24_hw4.ipynb](coursework/homeworks/vu_astr8070_s24_hw4.ipynb)
 <!--
-* Homework 4 (due 02/26/2022 @ 11.59pm CST) [vu_astr8070_s22_hw4.ipynb](coursework/homeworks/vu_astr8070_s22_hw4.ipynb)
 * Homework 5 (due 03/05/2022 @ 11.59pm CST) [vu_astr8070_s22_hw5.ipynb](coursework/homeworks/vu_astr8070_s22_hw5.ipynb)
 * Homework 6 (due 03/26/2022 @ 11.59pm CDT) [vu_astr8070_s22_hw6.ipynb](coursework/homeworks/vu_astr8070_s22_hw6.ipynb)
 * Homework 7 (due 04/02/2022 @ 11.59pm CDT) [vu_astr8070_s22_hw7.ipynb](coursework/homeworks/vu_astr8070_s22_hw7.ipynb)
