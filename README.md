@@ -57,9 +57,9 @@
 * [Lecture 15](lectures/notes/Lecture%2015.pdf) (02/29/2024)
 * [Lecture 16](lectures/notes/Lecture%2016.pdf) (03/05/2024)
 * [Lecture 17](lectures/notes/Lecture%2017.pdf) (03/07/2024)
+* [Lecture 18](lectures/notes/Lecture%2018.pdf) (03/19/2024)
+* [Lecture 19](lectures/notes/Lecture%2019.pdf) (03/21/2024)
 <!--
-* [Lecture 18](lectures/notes/Lecture%2018.pdf) (03/24/2022)
-* [Lecture 19](lectures/notes/Lecture%2019.pdf) (03/29/2022)
 * [Lecture 20](lectures/notes/Lecture%2020.pdf) (03/31/2022)
 * [Lecture 21](lectures/notes/Lecture%2021.pdf) (04/05/2022)
 * [Lecture 22](lectures/notes/Lecture%2022.pdf) (04/07/2022)
