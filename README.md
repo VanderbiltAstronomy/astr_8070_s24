@@ -27,8 +27,8 @@
 * Lecture 17 (03/07/2024): [Regression: I](lectures/Lecture_17.ipynb)
 * Lecture 18 (03/19/2024): [Regression: II](lectures/Lecture_18.ipynb)
 * Lecture 19 (03/21/2024): [Classification: I](lectures/Lecture_19.ipynb)
-<!--
 * Lecture 20 (03/26/2022): [Classification: II](lectures/Lecture_20.ipynb)
+<!--
 * Lecture 21 (03/28/2022): [Deep Learning: I](lectures/Lecture_21.ipynb)
 * Lecture 22 (04/02/2024): [Deep Learning: II](lectures/Lecture_22.ipynb)
 * Lecture 23 (04/04/2024): [Time Series Analysis: I](lectures/Lecture_23.ipynb)
