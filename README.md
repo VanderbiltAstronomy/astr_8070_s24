@@ -27,8 +27,8 @@
 * Lecture 17 (03/07/2024): [Regression: I](lectures/Lecture_17.ipynb)
 * Lecture 18 (03/19/2024): [Regression: II](lectures/Lecture_18.ipynb)
 * Lecture 19 (03/21/2024): [Classification: I](lectures/Lecture_19.ipynb)
-<!--
 * Lecture 20 (03/26/2022): [Classification: II](lectures/Lecture_20.ipynb)
+<!--
 * Lecture 21 (03/28/2022): [Deep Learning: I](lectures/Lecture_21.ipynb)
 * Lecture 22 (04/02/2024): [Deep Learning: II](lectures/Lecture_22.ipynb)
 * Lecture 23 (04/04/2024): [Time Series Analysis: I](lectures/Lecture_23.ipynb)
@@ -76,7 +76,7 @@
 * Homework 5 (due 03/02/2022 @ 11.59pm CST) [vu_astr8070_s24_hw5.ipynb](coursework/homeworks/vu_astr8070_s24_hw5.ipynb)
 * Homework 6 (due 03/23/2024 @ 11.59pm CDT) [vu_astr8070_s24_hw6.ipynb](coursework/homeworks/vu_astr8070_s24_hw6.ipynb)
 * Homework 7 (due 03/30/2024 @ 11.59pm CDT) [vu_astr8070_s24_hw7.ipynb](coursework/homeworks/vu_astr8070_s24_hw7.ipynb)
+* Homework 8 (due 04/06/2022 @ 11.59pm CDT) [vu_astr8070_s24_hw8.ipynb](coursework/homeworks/vu_astr8070_s24_hw8.ipynb)
 <!--
-* Homework 8 (due 04/09/2022 @ 11.59pm CDT) [vu_astr8070_s22_hw8.ipynb](coursework/homeworks/vu_astr8070_s22_hw8.ipynb)
 * Homework 9 (due 04/16/2022 @ 11.59pm CDT) [vu_astr8070_s22_hw9.ipynb](coursework/homeworks/vu_astr8070_s22_hw9.ipynb)
 -->
