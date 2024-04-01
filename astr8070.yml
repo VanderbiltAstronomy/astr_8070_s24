@@ -1,0 +1,36 @@
+# env setup file for Steve Taylor's ASTR8070 Vanderbilt Course
+name: astr8070
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - acor
+  - astroML
+  - astropy
+  - astroquery
+  - bokeh  
+  - dynesty  
+  - emcee
+  - ipympl  
+  - ipywidgets  
+  - matplotlib
+  - nb_conda_kernels
+  - numpy
+  - pip
+  - PTMCMCSampler
+  - pymc  
+  - seaborn
+  - scikit-learn
+  - scipy
+  - ultranest  
+  - pip:
+    - corner
+    - numdifftools
+
+
+
+
+
+
+
+
