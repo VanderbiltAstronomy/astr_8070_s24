@@ -30,10 +30,8 @@
 * Lecture 20 (03/26/2024): [Classification: II](lectures/Lecture_20.ipynb)
 * Lecture 21 (04/02/2024): [Deep Learning: I](lectures/Lecture_21.ipynb)
 * Lecture 22 (04/04/2024): [Deep Learning: II](lectures/Lecture_22.ipynb)
+* Lecture 23 (04/09/2024): [Time Series Analysis: I](lectures/Lecture_23.ipynb)
 <!--
-* Lecture 23 (04/04/2024): [Time Series Analysis: I](lectures/Lecture_23.ipynb)
-* Lecture 24 (04/09/2024): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
-* Lecture 25 (04/11/2024): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
 * Lecture 26 (04/16/2024): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
 * Lecture 27 (04/18/2024): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
 -->
@@ -62,9 +60,9 @@
 * [Lecture 20](lectures/notes/Lecture%2020.pdf) (03/26/2024)
 * [Lecture 21](lectures/notes/Lecture%2021.pdf) (04/02/2024)
 * [Lecture 22](lectures/notes/Lecture%2022.pdf) (04/04/2022)
+* [Lecture 23](lectures/notes/Lecture%2023.pdf) (04/09/2024)
 <!--
-* [Lecture 23](lectures/notes/Lecture%2023.pdf) (04/14/2022)
-* [Lecture 24](lectures/notes/Lecture%2024.pdf) (04/19/2022)
+* [Lecture 24](lectures/notes/Lecture%2024.pdf) (04/16/2024)
 -->
 
 ## Assignments
