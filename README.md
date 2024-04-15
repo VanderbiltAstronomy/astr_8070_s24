@@ -61,7 +61,7 @@
 * [Lecture 21](lectures/notes/Lecture%2021.pdf) (04/02/2024)
 * [Lecture 22](lectures/notes/Lecture%2022.pdf) (04/04/2022)
 * [Lecture 23](lectures/notes/Lecture%2023.pdf) (04/09/2024)
-* [Lecture 24](lectures/notes/Lecture%2024.pdf) and [Time-series Wrap-up](lectures/notes/Time%Series%Wrap-up.pdf) (04/16/2024)
+* [Lecture 24](lectures/notes/Lecture%2024.pdf) and [Time-series Wrap-up](lectures/notes/Time%20Series%20Wrap-up.pdf) (04/16/2024)
 
 
 ## Assignments
