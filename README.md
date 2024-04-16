@@ -31,8 +31,8 @@
 * Lecture 21 (04/02/2024): [Deep Learning: I](lectures/Lecture_21.ipynb)
 * Lecture 22 (04/04/2024): [Deep Learning: II](lectures/Lecture_22.ipynb)
 * Lecture 23 (04/09/2024): [Time Series Analysis: I](lectures/Lecture_23.ipynb)
+* Lecture 24 (04/16/2024): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
 <!--
-* Lecture 26 (04/16/2024): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
 * Lecture 27 (04/18/2024): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
 -->
 
@@ -61,9 +61,8 @@
 * [Lecture 21](lectures/notes/Lecture%2021.pdf) (04/02/2024)
 * [Lecture 22](lectures/notes/Lecture%2022.pdf) (04/04/2022)
 * [Lecture 23](lectures/notes/Lecture%2023.pdf) (04/09/2024)
-<!--
-* [Lecture 24](lectures/notes/Lecture%2024.pdf) (04/16/2024)
--->
+* [Lecture 24](lectures/notes/Lecture%2024.pdf) and [Time-series Wrap-up](lectures/notes/Time%20Series%20Wrap-up.pdf) (04/16/2024)
+
 
 ## Assignments
 
@@ -75,4 +74,4 @@
 * Homework 6 (due 03/23/2024 @ 11.59pm CDT) [vu_astr8070_s24_hw6.ipynb](coursework/homeworks/vu_astr8070_s24_hw6.ipynb)
 * Homework 7 (due 03/30/2024 @ 11.59pm CDT) [vu_astr8070_s24_hw7.ipynb](coursework/homeworks/vu_astr8070_s24_hw7.ipynb)
 * Homework 8 (due 04/06/2024 @ 11.59pm CDT) [vu_astr8070_s24_hw8.ipynb](coursework/homeworks/vu_astr8070_s24_hw8.ipynb)
-* Homework 9 (due 04/13/2024 @ 11.59pm CDT) [vu_astr8070_s24_hw9.ipynb](coursework/homeworks/vu_astr8070_s24_hw9.ipynb)
+* Homework 9 (due 04/15/2024 @ 11.59pm CDT) [vu_astr8070_s24_hw9.ipynb](coursework/homeworks/vu_astr8070_s24_hw9.ipynb)
