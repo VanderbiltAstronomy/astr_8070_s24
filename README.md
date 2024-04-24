@@ -32,9 +32,6 @@
 * Lecture 22 (04/04/2024): [Deep Learning: II](lectures/Lecture_22.ipynb)
 * Lecture 23 (04/09/2024): [Time Series Analysis: I](lectures/Lecture_23.ipynb)
 * Lecture 24 (04/16/2024): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
-<!--
-* Lecture 27 (04/18/2024): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
--->
 
 ## Lecture Notes
 
